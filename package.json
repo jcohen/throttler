@@ -1,0 +1,9 @@
+{
+  "name": "throttler",
+  "version": "0.0.1",
+  "description": "A little event-based util to make it easier to throttle execution for a batch of jobs.",
+  "main": "index.js",
+  "repository": "https://github.com/jcohen/throttler",
+  "author": "Joshua Cohen <defeated@gmail.com>",
+  "license": "BSD"
+}
